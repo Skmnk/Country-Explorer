@@ -29,3 +29,12 @@ npm install react-router-dom
 ```bash
 npm install axios
 ```
+
+## Testing 
+- The project has been manually tested before deployment, test scripts are on process.
+- Have tested the functionalities across all major browser (Chrome, Firefox, Safari) and is responsive on various devices.
+
+## Other Details
+- It took 1 hour 35 minutes to develope the web application (without testing).
+- Including testing, deployment etc., It totally took arount 2 hours.
+- My personal profile ->  [Sri Krishna](https://srikrishna-portfolio.vercel.app/)
